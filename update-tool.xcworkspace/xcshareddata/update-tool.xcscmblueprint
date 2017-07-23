@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "2963DA67600C32244672A24C9821936A7E2E5D49",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2963DA67600C32244672A24C9821936A7E2E5D49" : 9223372036854775807,
+    "76A15575C5B740800EF8E92EA66B97A276AEF659" : 9223372036854775807,
+    "3922356F8687959890B5669535C6E151AE826891" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "0CF73F06-F3CA-4398-AFB1-B62649029049",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2963DA67600C32244672A24C9821936A7E2E5D49" : "upgrade-tool\/",
+    "76A15575C5B740800EF8E92EA66B97A276AEF659" : "upgrade-tool\/lib\/googletest\/",
+    "3922356F8687959890B5669535C6E151AE826891" : "upgrade-tool\/lib\/HDiffPatch\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "update-tool",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "update-tool.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "dev.flybot.sg:hongheng\/update-tool.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2963DA67600C32244672A24C9821936A7E2E5D49"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/sisong\/HDiffPatch.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3922356F8687959890B5669535C6E151AE826891"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/google\/googletest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "76A15575C5B740800EF8E92EA66B97A276AEF659"
+    }
+  ]
+}

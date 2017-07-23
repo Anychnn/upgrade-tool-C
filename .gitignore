@@ -1,0 +1,9 @@
+**/.DS_Store
+.idea/
+update-tool.xcworkspace/xcuserdata/
+**/xcuserdata/
+README.MD
+cmake-build-debug/
+differ.xcodeproj/
+build/
+derived/
